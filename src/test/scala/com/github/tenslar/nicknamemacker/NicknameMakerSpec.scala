@@ -1,5 +1,6 @@
 package NicknameMacker
 
+import com.github.tenslar.nicknamemacker.{Nickname, NicknameMaker, WordPool}
 import org.scalatest.flatspec.AnyFlatSpec
 
 class NicknameMakerSpec extends AnyFlatSpec {
