@@ -1,9 +1,8 @@
-package NicknameMacker
+package com.github.tenslar.nicknamemacker
 
-import com.github.tenslar.nicknamemacker.CSVWordPoolMaker
+import org.scalatest.flatspec.AnyFlatSpec
 
 import java.io.File
-import org.scalatest.flatspec.AnyFlatSpec
 
 class CSVWordPoolMakerTest extends AnyFlatSpec {
   val csv_wordpool_maker = new CSVWordPoolMaker

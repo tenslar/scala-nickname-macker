@@ -1,4 +1,4 @@
-package NicknameMacker
+package com.github.tenslar.nicknamemacker
 
 class Nickname(var nickname: String) {
   if (nickname.isEmpty) {

@@ -1,5 +1,6 @@
-package NicknameMacker {
-  class WordPool(var pool: Array[String]) {
+package com.github.tenslar.nicknamemacker
+
+class WordPool(var pool: Array[String]) {
     val num: Int = pool.length
     def storedNum(): Int = {
       num
@@ -12,4 +13,3 @@ package NicknameMacker {
       pool(index)
     }
   }
-}

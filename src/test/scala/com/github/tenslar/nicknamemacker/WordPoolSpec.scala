@@ -1,6 +1,5 @@
-package NicknameMacker
+package com.github.tenslar.nicknamemacker
 
-import com.github.tenslar.nicknamemacker.WordPool
 import org.scalatest.diagrams.Diagrams
 import org.scalatest.flatspec.AnyFlatSpec
 

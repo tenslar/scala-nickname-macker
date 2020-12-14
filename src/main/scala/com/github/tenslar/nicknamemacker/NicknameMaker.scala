@@ -1,4 +1,4 @@
-package NicknameMacker
+package com.github.tenslar.nicknamemacker
 
 import scala.util.Random
 

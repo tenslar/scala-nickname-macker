@@ -1,7 +1,6 @@
-package NicknameMacker
+package com.github.tenslar.nicknamemacker
 
 import java.io.File
-
 import scala.io.Source
 
 class CSVWordPoolMaker() {
